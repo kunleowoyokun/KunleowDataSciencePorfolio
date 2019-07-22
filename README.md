@@ -4,13 +4,19 @@ The data science projects were completed for professional as well as for individ
 Programming	
 
 TOOLS USED
+
 Python (Pandas, NumPy, Matplotlib) 
+
 R
+
 Tableau
 
 PACKAGES USED
+
 Machine Learning:Scikitlearn, Caret
+
 Natural Language Processing:  SentimentR, TM, Syhuzhet	
+
 Cloud Computing:	Microsoft Azure
 
 LIST OF PROJECTS 
